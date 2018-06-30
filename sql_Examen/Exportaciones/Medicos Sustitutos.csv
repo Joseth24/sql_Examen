@@ -1,0 +1,3 @@
+IdMedicosSus,NomMedicoSus,DirMedicoSus,TelMedicoSus,PoblaMedicoSus,ProvMedicoSus,DNIMedicoSus,NumSegSocialMedicoSus,NumDeColegiMedicoSus,TipMedicoSus,EstadoMedicoSus,FecAltaMedicoSus,FecBajaMedicoSus,HoraMedicoSus,Medicos_IdMedicos
+1,Joseth,Herbay Alto,0136985,San Vicente,Cañete,70253971,1234567891,"963258741           ",Medico Interino,Activo,2015-08-09,2015-08-10,Consultas,3
+2,Luis,Herbay Bajo,0147852,San Vicente,Cañete,25896314,9632587410,"95874213601         ",Medico Titular,Activo,2016-10-08,2015-10-09,Operación,1

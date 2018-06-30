@@ -1,0 +1,3 @@
+IdPaciente,NomPaciente,DirPaciente,TelPaciente,NumSegSocial,Medicos_IdMedicos,MedicosSutitutos_IdMedicosSus
+1,Alex,Santa Rosa,0145298,"1478523690          ",1,2
+2,Augusto,Boca del Rio,0147859,"1487825369          ",2,1
